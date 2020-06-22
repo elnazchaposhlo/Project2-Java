@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ass2</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Lab 05 - Advanced Design and Analysis(1)</name>
+			<type>2</type>
+			<location>D:/School of Computer Science/Advanced Computing Concepts/Source Code/Lab 05 - Advanced Design and Analysis(1)</location>
+		</link>
+	</linkedResources>
+</projectDescription>
